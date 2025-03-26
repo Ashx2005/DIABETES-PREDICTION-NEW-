@@ -52,6 +52,5 @@ streamlit run main.py
 ---
 
 ### 🔗 Connect with Me  
-📧 Email: rohitbhangale802@gmail.com  
 🌐 GitHub: [Ashx2005](https://github.com/Ashx2005)  
 🚀 Happy Coding!  
