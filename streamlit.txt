@@ -1,4 +1,1 @@
 streamlit run main.py
-admin email = admindiabetesapp@gmail.com 
- password = Admin@321
- username = Admin_1
